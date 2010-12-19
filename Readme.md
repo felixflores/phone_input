@@ -1,13 +1,13 @@
 
-# YourLib
+# Phone Input
 
-Description
+Formats and validates phone form fields on the fly. US and Canada numbers only.
 
 ## License 
 
 (The MIT License)
 
-Copyright (c) 2009 Your Name &lt;Your Email&gt;
+Copyright (c) 2009 Felix Flores &lt;me@felixflor.es&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
